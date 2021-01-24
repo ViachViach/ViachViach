@@ -1,4 +1,4 @@
-### Hi there, I like Backend enginering and develop some agragation system om PHP (Symfony, Laravel), and Java (Spring Boot).
+### Hi there, I like Backend enginering and I like to develop an agragation system on PHP (Symfony, Laravel), and Java (Spring Boot).
 
 I like difficult task and find easy solution for that. 
 
