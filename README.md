@@ -1,4 +1,6 @@
-### Hi there, I like Backend enginering and develop some agragation system om PHP (Symfony, Laravel), and Java (Spring Boot). I like develop REST API.
+### Hi there, I like Backend enginering and develop some agragation system om PHP (Symfony, Laravel), and Java (Spring Boot).
+
+I like difficult task and find easy solution for that. 
 
 <!--
 **ViachViach/ViachViach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
