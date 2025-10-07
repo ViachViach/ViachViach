@@ -1,4 +1,4 @@
-### Hi there! I like backend engineering and I like to develop USING PHP (Symphony, Laravel) and JAVA (Spring Boot).
+### Hi there! I like backend engineering and I like to develop USING JavaScript, NodeJs, TypeScript, PHP (Symphony, Laravel) and JAVA (Spring Boot).
 
 I like difficult task and find easy solution for that. 
 
